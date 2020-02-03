@@ -1,1 +1,0 @@
-# tekn-basis-data
