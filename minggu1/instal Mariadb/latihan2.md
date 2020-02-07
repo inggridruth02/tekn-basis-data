@@ -26,7 +26,7 @@ Menampilkan database
 6. desc movies.
 menampilkan isi tabel movie
 ![desc](db6.png)
-7.	Insert query.
+7. Insert query.
 menambah data kedalam tabel
 ![insert](db7.png)
 8.SELECT.
